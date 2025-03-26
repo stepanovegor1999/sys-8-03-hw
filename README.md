@@ -3,7 +3,8 @@
 ### Задание 2
 https://github.com/stepanovegor1999/sys-8-01-hw/commit/e2e4975bdae5cd95d431fbb70f11c7b78283ca86
 ## Задание 3
+https://github.com/stepanovegor1999/sys-8-01-hw/network
+![image](https://github.com/user-attachments/assets/7b149473-e675-48fe-a39c-b3e917c883f5)
 
-### Задание 4
 
 
